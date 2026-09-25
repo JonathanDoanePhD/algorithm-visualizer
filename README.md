@@ -1,3 +1,7 @@
+> **Fork note:** This is a fork of [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer). The application, screenshots, and features described below are the upstream project's work. This repository is not presented as a Jonathan Doane original or as a separately maintained product.
+
+---
+
 # Algorithm Visualizer
 
 ## Introduction
